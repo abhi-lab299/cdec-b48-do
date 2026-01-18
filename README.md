@@ -1,14 +1,10 @@
 ✨ Software Architecture & Deployment Models
 
-(Technical Definitions • Long Words • Stylish & Beautiful Design)
-
 🏛️ Monolithic Architecture
 
-Monolithic architecture is a single-tier, tightly coupled software design paradigm in which an application is developed, compiled, packaged, deployed, and executed as one cohesive and indivisible executable unit.
-
-🔹 Technical Definition
-
-In a monolithic system, the presentation layer, business logic layer, and data access layer are co-located within a single codebase and runtime process, sharing memory, configuration, and database connections.
+Monolithic architecture is a single-tier, tightly coupled software design paradigm in which an 
+application is developed, compiled, packaged, deployed, and executed as one cohesive and indivisible
+executable unit.
 
 🔬 Technical Characteristics
 
