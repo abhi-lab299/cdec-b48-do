@@ -4,7 +4,7 @@
 
 Monolithic architecture is a single-tier, tightly coupled software design paradigm in which an 
 application is developed, compiled, packaged, deployed, and executed as one cohesive and indivisible
-executable unit.
+executable unit. 
 
 🔬 Technical Characteristics
 
