@@ -1,4 +1,9 @@
-# Docker
+✨ Docker ✨
+
+Docker is an open-source containerization platform that enables developers to build, package, 
+ship, and run applications as lightweight, portable, and self-sufficient containers. Each container
+bundles the application code with its runtime, system libraries, dependencies, and configuration,
+ensuring environment consistency across development, testing, and production.
 
 ## Monolithic vs Microservices
 Monolithic
